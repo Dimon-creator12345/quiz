@@ -116,7 +116,7 @@
 .conteiner_question {
     text-align: left;
     width: 900px;
-    margin: 10% 0px 0px 19%;
+    margin: 5% 0px 0px 19%;
 }
 
 .conteiner_question__answer_options {
@@ -128,7 +128,7 @@
     text-align: left;
     display: block;
     width: fit-content;
-    padding: 40px 0px 40px 80px;
+    padding: 4% 0px 4% 80px;
     position: relative;
     transition: opacity 0.2s;
 }
